@@ -39,6 +39,7 @@ Table of Content:
 @import url(bootstrap.min.css);
 @import url(font-awesome.min.css);
 @import url(../vendors/flat-icon/flaticon.css);
+@import url(../vendors/font/flaticon.css);
 @import url(../vendors/animate-css/animate.css);
 @import url(../vendors/magnify-popup/magnific-popup.css);
 @import url(../vendors/owl-carousel/owl.carousel.min.css);
@@ -500,7 +501,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: inline-block;
 }
 .mha_2 .header_menu .navbar .navbar_supported ul li a {
-  color: #fff;
+  color: rgb(24, 24, 24);
 }
 .mha_2.navbar_fixed .navbar .navbar-brand img {
   display: inline-block;
@@ -556,7 +557,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   animation: BottomToTop 0.3s forwards;
 }
 .top_header_area .header_social li .phone_no {
-  color: rgba(116, 116, 116, 0.6);
+  color: rgba(101, 101, 101, 0.6);
   font: 600 23px/70px "Muli", sans-serif;
   display: inline-block;
   border: 1px solid #f2f2f2;
