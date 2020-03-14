@@ -84,7 +84,7 @@
                 margin: 20,
                 nav: true,
                 items: 2.5,  
-                navText: ["<i class='flaticon-back'></i>","<i class='flaticon-next'></i>"],
+                navText: ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
                 responsive: {
                     0: {
                         items: 1, 

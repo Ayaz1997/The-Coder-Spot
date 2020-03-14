@@ -39,8 +39,8 @@ Table of Content:
 @import url(bootstrap.min.css);
 @import url(font-awesome.min.css);
 @import url(../vendors/flat-icon/flaticon.css);
-@import url(../vendors/font/flaticon.css);
-@import url(../vendors/arrow-font/flaticon.css);
+@import url(../vendors/font/flaticon-web.css);
+
 @import url(../vendors/animate-css/animate.css);
 @import url(../vendors/magnify-popup/magnific-popup.css);
 @import url(../vendors/owl-carousel/owl.carousel.min.css);
