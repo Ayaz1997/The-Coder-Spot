@@ -706,10 +706,10 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #242425;
 }
 .pages_banner p {
-  font: 400 24px/38px "Muli", sans-serif;
+  font: 400 18px/38px "Muli", sans-serif;
   color: #464647;
   padding-top: 70px;
-  max-width: 705px;
+  max-width: 600px;
 }
 
 .pb_2 {
