@@ -40,6 +40,7 @@ Table of Content:
 @import url(font-awesome.min.css);
 @import url(../vendors/flat-icon/flaticon.css);
 @import url(../vendors/font/flaticon.css);
+@import url(../vendors/arrow-font/flaticon.css);
 @import url(../vendors/animate-css/animate.css);
 @import url(../vendors/magnify-popup/magnific-popup.css);
 @import url(../vendors/owl-carousel/owl.carousel.min.css);
@@ -893,7 +894,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: rgba(0, 0, 0, 0.702);
 }
 .agency_3 .agency:hover i:before, .agency_3 .agency:focus i:before, .agency_3 .agency.active i:before {
-  background: #ff8d68;
+  <!-- background:;
 }
 
 /* End agency_area */
