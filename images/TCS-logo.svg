@@ -1,0 +1,22 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 70">
+  <title>TCS-logo</title>
+  <g id="Logo">
+    <g>
+      <g>
+        <polygon points="70.02 20.22 70.02 24.99 76.15 27.8 76.15 16.47 49.92 3.52 49.92 10.25 70.02 20.22" style="fill: #4791ce"/>
+        <polygon points="49.92 10.25 30.16 19.28 30.16 51.81 49.92 60.93 49.92 67.49 24.2 55.56 24.2 15.62 49.92 3.52 49.92 10.25" style="fill: #5eb3e4"/>
+        <polygon points="49.92 60.93 69.94 51.81 69.94 41.42 76.15 43.64 76.15 55.05 49.92 67.49 49.92 60.93" style="fill: #4791ce"/>
+      </g>
+      <g>
+        <polygon points="64.91 32.23 59.2 30.09 59.2 26.77 49.92 22.86 49.92 16.47 64.91 22.94 64.91 32.23" style="fill: #4791ce"/>
+        <polygon points="49.92 22.86 40.8 27.03 40.8 28.99 49.92 32.65 49.92 39.21 35.01 33.08 35.01 23.45 49.92 16.47 49.92 22.86" style="fill: #79cef0"/>
+        <polygon points="49.92 32.65 49.92 39.21 59.12 42.87 59.12 45.17 49.92 49.09 49.92 55.13 64.91 48.66 64.91 39.21 49.92 32.65" style="fill: #4791ce"/>
+        <polygon points="35.01 38.44 41.06 40.83 41.06 44.66 49.92 49.09 49.92 55.13 35.01 47.81 35.01 38.44" style="fill: #79cef0"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <text transform="translate(83.32 38.13)" style="isolation: isolate;font-size: 25.976871490478516px;fill: #2b2b2b;font-family: OpenSans-Semibold, Open Sans;font-weight: 600">The Coder Spot</text>
+    <text transform="translate(87.7 53.07)" style="isolation: isolate;font-size: 7.79306173324585px;fill: #595655;font-family: OpenSans-Semibold, Open Sans;font-weight: 600;letter-spacing: 0.7000543038143917em">Codifying Your Vision</text>
+  </g>
+</svg>
