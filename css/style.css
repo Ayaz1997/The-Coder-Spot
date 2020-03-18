@@ -607,6 +607,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .banner_area h2 {
   font: 800 66px/74px "Muli", sans-serif;
   color: #353535;
+  padding-top: -100px;
   max-width: 620px;
 }
 .banner_area p {
@@ -688,14 +689,14 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 
 .ba_3 {
   background: url(../images/banner-bg-3.png) no-repeat top left;
-  padding-bottom: 310px;
+  padding-bottom: 240px;
 }
 
 /* pages_banner */
 .pages_banner {
   display: block;
   overflow: hidden;
-  padding: 340px 0 200px;
+  padding: 340px 0 50px;
   box-shadow: 0px 0px 30px 0px rgba(181, 181, 181, 0.35);
   z-index: 1;
   background: white url("../images/pages-banner.png") no-repeat right;
@@ -1864,7 +1865,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .ppa_3 {
   background: url("../images/pricing-plan-bg-3.png") no-repeat left top;
   padding-top: 385px;
-  margin-top: -285px;
+  margin-top: -450px;
 }
 
 .ppa_4 {
