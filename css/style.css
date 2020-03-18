@@ -3305,12 +3305,14 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
     margin: 0;
     max-height: 370px;
     overflow-y: auto;
-    background: #2e91fc;
-    border: 1px dashed #fff;
+    background: #0363ca;
+    border: 1px ridge #fff;
+    border-radius: 5px;
     padding-left: 0 !important;
   }
   .main_header_area .header_menu .navbar .navbar-nav li {
-    border-bottom: 1px dashed #fff;
+    border-bottom: 1px ridge #fff;
+    border-radius: 5px;
   }
   .main_header_area .header_menu .navbar .navbar-nav li:last-child {
     border: 0;
