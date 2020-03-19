@@ -311,20 +311,23 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: block;
   z-index: 1;
 }
+
+/* Nav Bar Hover animation */
 .main_header_area .header_menu .navbar .navbar_supported ul li a:after {
   content: '';
   position: absolute;
-  left: 0;
+  left: -8px;
   right: 0;
-  width: 100%;
-  background: #f3bba9;
-  height: 6px;
-  bottom: 18px;
+  width: 120%;
+  background: #cccccc;
+  border-radius: 4px;
+  height: 40px;
+  bottom: 8px;
   border: 0;
   margin: 0;
   z-index: -1;
-  transform-origin: right center;
-  transform: scale(0, 1);
+  transform-origin: center;
+  transform: scale(0, 0);
   transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 .main_header_area .header_menu .navbar .navbar_supported ul li a:hover:after, .main_header_area .header_menu .navbar .navbar_supported ul li a:focus:after, .main_header_area .header_menu .navbar .navbar_supported ul li a.active:after {
