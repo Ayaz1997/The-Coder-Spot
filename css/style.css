@@ -732,6 +732,10 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   background: white url("../images/pages-banner-5.png") no-repeat bottom right;
 }
 
+.pb_6 {
+  background: white url("../images/blog.png") no-repeat bottom right;
+}
+
 /* pages_banner */
 /* Error_area */
 .error_area {
